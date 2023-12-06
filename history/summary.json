@@ -67,17 +67,19 @@
     "url": "https://facebook.com",
     "icon": "https://icons.duckduckgo.com/ip3/facebook.com.ico",
     "slug": "facebook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 522,
-    "timeDay": 268,
-    "timeWeek": 403,
-    "timeMonth": 411,
-    "timeYear": 522,
-    "dailyMinutesDown": {}
+    "time": 520,
+    "timeDay": 282,
+    "timeWeek": 389,
+    "timeMonth": 407,
+    "timeYear": 520,
+    "dailyMinutesDown": {
+      "2023-12-06": 0
+    }
   }
 ]
