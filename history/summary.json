@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 108,
-    "timeDay": 79,
-    "timeWeek": 96,
+    "time": 109,
+    "timeDay": 102,
+    "timeWeek": 99,
     "timeMonth": 100,
     "timeYear": 110,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 66,
-    "timeWeek": 110,
+    "timeDay": 180,
+    "timeWeek": 130,
     "timeMonth": 156,
-    "timeYear": 227,
+    "timeYear": 228,
     "dailyMinutesDown": {}
   },
   {
@@ -49,13 +49,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 371,
-    "timeWeek": 386,
-    "timeMonth": 366,
+    "timeDay": 312,
+    "timeWeek": 369,
+    "timeMonth": 364,
     "timeYear": 318,
-    "dailyMinutesDown": {
-      "2024-06-26": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Facebook",
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 656,
-    "timeDay": 2445,
-    "timeWeek": 764,
-    "timeMonth": 821,
+    "timeDay": 522,
+    "timeWeek": 779,
+    "timeMonth": 825,
     "timeYear": 677,
     "dailyMinutesDown": {
       "2025-03-25": 26,
