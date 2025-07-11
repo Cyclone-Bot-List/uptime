@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 84,
-    "timeWeek": 113,
+    "timeDay": 83,
+    "timeWeek": 109,
     "timeMonth": 107,
     "timeYear": 109,
     "dailyMinutesDown": {
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 46,
+    "time": 232,
+    "timeDay": 367,
     "timeWeek": 239,
-    "timeMonth": 161,
+    "timeMonth": 169,
     "timeYear": 228,
     "dailyMinutesDown": {}
   },
@@ -44,18 +44,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 287,
-    "timeWeek": 311,
-    "timeMonth": 331,
-    "timeYear": 318,
-    "dailyMinutesDown": {
-      "2025-07-10": 13
-    }
+    "timeDay": 219,
+    "timeWeek": 306,
+    "timeMonth": 324,
+    "timeYear": 317,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Facebook",
@@ -69,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 660,
-    "timeDay": 574,
-    "timeWeek": 501,
-    "timeMonth": 658,
-    "timeYear": 676,
+    "timeDay": 441,
+    "timeWeek": 511,
+    "timeMonth": 631,
+    "timeYear": 675,
     "dailyMinutesDown": {
       "2025-03-25": 26,
       "2024-09-25": 45
